@@ -1,8 +1,11 @@
 @page "/gallery/{GalleryType}"
+@using demo_blazor_webassembly.Services
 
 <GalleryContainer GalleryType="@GalleryType"></GalleryContainer>
 @code {
     [Parameter]
     public string GalleryType { get; set; }
+
     
+
 }

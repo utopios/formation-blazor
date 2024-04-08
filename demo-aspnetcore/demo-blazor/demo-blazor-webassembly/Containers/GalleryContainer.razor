@@ -1,7 +1,19 @@
-<h3>Les photos de @GalleryType</h3>
+@using demo_blazor_webassembly.Services
 
+<h3>Les photos de @GalleryType</h3>
+<img src="@pictureFile"/>
+@inject GetPhotoFromApiService _GetPhotoFromApiService
 @code {
     
     [Parameter]
     public string GalleryType { get; set; }
+    
+    private string pictureFile; 
+    
+    protected override Task OnInitializedAsync()
+    {
+        base.OnInitialized();
+        pictureFile = _GetPhotoFromApiService.GetRandomPicture();
+        return Task.CompletedTask;
+    }
 }
