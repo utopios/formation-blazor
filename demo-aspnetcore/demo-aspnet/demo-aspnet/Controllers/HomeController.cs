@@ -1,4 +1,6 @@
 ﻿using System.Diagnostics;
+using System.Runtime.InteropServices.JavaScript;
+using demo_aspnet.DTOs;
 using demo_aspnet.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using demo_aspnet.Models;
@@ -18,7 +20,22 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        return View();
+        //Pour envoyer des données à la vue razor
+        ViewBag.Firstname = "Ihab";
+
+        ViewData["firstname"] = "ihab";
+
+        Person person = new Person()
+        {
+            Firstname = "Ihab",
+            Lastname = "Abadi"
+        };
+        
+        //Un objet dynamic
+        // dynamic objetDynamic = new object();
+        // objetDynamic.Firstname = "Ihab";
+        
+        return View(person);
     }
 
     public IActionResult Privacy()

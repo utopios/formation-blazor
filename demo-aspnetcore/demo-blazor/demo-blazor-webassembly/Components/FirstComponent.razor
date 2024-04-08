@@ -1,0 +1,22 @@
+<h3>FirstComponent</h3>
+<button @onclick="@DisplayAll">Display name</button>
+<div>
+    Hello From our first component
+    @name
+</div>
+
+
+@code {
+    
+    
+    
+    [Parameter]
+    public String Firstname { get; set; }
+
+    private string name;
+    
+    public void DisplayAll()
+    {
+        name = Firstname + " " + Lastname;
+    }
+}
