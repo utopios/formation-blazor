@@ -6,9 +6,9 @@ public class RandomCorrectPriceService : ICorrectPriceService
 
     private Random _random;
     
-    public RandomCorrectPriceService()
+    public RandomCorrectPriceService(Random random)
     {
-        _random = new Random();
+        _random = random;
         price = _random.Next(100);
     }
 

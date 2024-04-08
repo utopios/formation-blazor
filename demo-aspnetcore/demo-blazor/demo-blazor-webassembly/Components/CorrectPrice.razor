@@ -1,5 +1,5 @@
 @using demo_blazor_webassembly.Services
-@inject ICorrectPriceService _CorrectPriceService
+@* @inject ICorrectPriceService _CorrectPriceService *@
 <h3>CorrectPrice</h3>
 <div>
     <input type="text" value="@Price" @onchange="(ChangeEventArgs eventArgs) => { Price = Convert.ToInt32(eventArgs?.Value); IsCorrect();}"  />
@@ -12,8 +12,8 @@
 
     // private Random _random;
     // private int goodPrice;
-    public int Price { get; set; }
-    public string Message { get; set; }
+    // public int Price { get; set; }
+    // public string Message { get; set; }
     
     // public CorrectPrice()
     // {
@@ -21,22 +21,22 @@
     //     // goodPrice = _random.Next(100);
     // }
 
-    public void IsCorrect()
-    {
-        // if (Price < goodPrice)
-        // {
-        //     Message = "Le prix est plus grand";
-        // }
-        // else if (Price > goodPrice)
-        // {
-        //     Message = "Le prix est plus petit";
-        // }
-        // else
-        // {
-        //     Message = "Bravo !!!";
-        // }
-
-        Message = _CorrectPriceService.TryPrice(Price);
-
-    }
+    // public void IsCorrect()
+    // {
+    //     // if (Price < goodPrice)
+    //     // {
+    //     //     Message = "Le prix est plus grand";
+    //     // }
+    //     // else if (Price > goodPrice)
+    //     // {
+    //     //     Message = "Le prix est plus petit";
+    //     // }
+    //     // else
+    //     // {
+    //     //     Message = "Bravo !!!";
+    //     // }
+    //
+    //     Message = _CorrectPriceService.TryPrice(Price);
+    //
+    // }
 }
