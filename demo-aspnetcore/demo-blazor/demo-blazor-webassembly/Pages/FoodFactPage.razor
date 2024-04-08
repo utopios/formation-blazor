@@ -2,7 +2,7 @@
 @using demo_blazor_webassembly.Services
 @using demo_blazor_webassembly.DTOs
 @inject ApiService _ApiService
-<h3>FoodFactPage</h3>
+<h3>FoodFactPage @FoodFacts?.Code</h3>
 <div>
     @FoodFacts?.Product?.ProductName
 </div>

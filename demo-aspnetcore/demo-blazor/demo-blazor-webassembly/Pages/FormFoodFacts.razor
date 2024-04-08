@@ -1,0 +1,15 @@
+@page "/FormFoodFacts"
+@inject NavigationManager _NavigationManager
+<h3>FormFoodFacts</h3>
+<div>
+    <input type="text" @bind="Code" ></input>
+    <button @onclick="GetProduct">Valider</button>
+</div>
+@code {
+    public string Code { get; set; }
+
+    public void GetProduct()
+    {
+        _NavigationManager.NavigateTo("/FoodFactPage/"+Code);
+    }
+}

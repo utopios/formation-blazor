@@ -7,7 +7,7 @@ var builder = WebAssemblyHostBuilder.CreateDefault(args);
 builder.RootComponents.Add<App>("#app");
 builder.RootComponents.Add<HeadOutlet>("head::after");
 
-builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://world.openfoodfacts.org/api/v2/") });
+builder.Services.AddTransient(sp => new HttpClient());
 builder.Services.AddScoped<ICorrectPriceService, RandomCorrectPriceService>();
 builder.Services.AddScoped<GetPhotoFromApiService>();
 builder.Services.AddScoped<ApiService>();
