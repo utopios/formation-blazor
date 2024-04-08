@@ -1,0 +1,25 @@
+@page "/FoodFactPage/{CodeBarre}"
+@using demo_blazor_webassembly.Services
+@using demo_blazor_webassembly.DTOs
+@inject ApiService _ApiService
+<h3>FoodFactPage</h3>
+<div>
+    @FoodFacts?.Product?.ProductName
+</div>
+
+@code {
+    public FoodFacts? FoodFacts { get; set; }
+    
+    [Parameter]
+    public string? CodeBarre { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        if (CodeBarre != null)
+        {
+            FoodFacts = await _ApiService.Get(CodeBarre);
+            StateHasChanged();
+        }
+        return ;
+    }
+
+}
