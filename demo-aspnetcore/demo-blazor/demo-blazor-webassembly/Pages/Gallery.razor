@@ -1,0 +1,8 @@
+@page "/gallery/{GalleryType}"
+
+<GalleryContainer GalleryType="@GalleryType"></GalleryContainer>
+@code {
+    [Parameter]
+    public string GalleryType { get; set; }
+    
+}

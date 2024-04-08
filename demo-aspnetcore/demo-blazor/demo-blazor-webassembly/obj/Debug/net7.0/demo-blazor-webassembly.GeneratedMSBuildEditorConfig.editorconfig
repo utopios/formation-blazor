@@ -28,12 +28,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9GaXJzdENvbXBvbmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/Containers/GalleryContainer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29udGFpbmVycy9HYWxsZXJ5Q29udGFpbmVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/Pages/Gallery.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvR2FsbGVyeS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/Pages/Index.razor]
