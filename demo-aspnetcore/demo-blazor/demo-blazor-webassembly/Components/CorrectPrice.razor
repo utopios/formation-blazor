@@ -1,0 +1,36 @@
+<h3>CorrectPrice</h3>
+<div>
+    <input type="text" value="@Price" @onchange="(ChangeEventArgs eventArgs) => { Price = Convert.ToDecimal(eventArgs?.Value); IsCorrect();}"  />
+    <button @onclick="IsCorrect">Valider</button>
+</div>
+<div>
+    @Message
+</div>
+@code {
+
+    private Random _random;
+    private int goodPrice;
+    public decimal Price { get; set; }
+    public string Message { get; set; }
+    public CorrectPrice()
+    {
+        _random = new Random();
+        goodPrice = _random.Next(100);
+    }
+
+    public void IsCorrect()
+    {
+        if (Price < goodPrice)
+        {
+            Message = "Le prix est plus grand";
+        }
+        else if (Price > goodPrice)
+        {
+            Message = "Le prix est plus petit";
+        }
+        else
+        {
+            Message = "Bravo !!!";
+        }
+    }
+}
