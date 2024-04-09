@@ -2285,7 +2285,8 @@
     "net7.0": [
       "Microsoft.AspNetCore.Components.WebAssembly >= 7.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 7.0.0",
-      "Microsoft.AspNetCore.SignalR.Client >= 7.0.0"
+      "Microsoft.AspNetCore.SignalR.Client >= 7.0.0",
+      "Microsoft.AspNetCore.SignalR.Client.Core >= 7.0.0"
     ]
   },
   "packageFolders": {
@@ -2336,6 +2337,10 @@
             "version": "[7.0.0, )"
           },
           "Microsoft.AspNetCore.SignalR.Client": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          },
+          "Microsoft.AspNetCore.SignalR.Client.Core": {
             "target": "Package",
             "version": "[7.0.0, )"
           }
