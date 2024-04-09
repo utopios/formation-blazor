@@ -4,6 +4,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo-blazor-webassembly", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demomvvmblazor", "demomvvmblazor\demomvvmblazor.csproj", "{CA148623-DF4B-491D-9F9B-8D46C3D3C823}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demowebassebmlyhosted.Server", "demowebassebmlyhosted\Server\demowebassebmlyhosted.Server.csproj", "{410D538D-ABA2-431F-A986-195C78EE3BA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demowebassebmlyhosted.Client", "demowebassebmlyhosted\Client\demowebassebmlyhosted.Client.csproj", "{11404636-02FD-4493-AE65-9BEE9FFC307E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demowebassebmlyhosted.Shared", "demowebassebmlyhosted\Shared\demowebassebmlyhosted.Shared.csproj", "{74507D02-7C7A-4437-AB3D-9A20AD3FB1C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demoblazorserver", "demoblazorserver\demoblazorserver.csproj", "{14189B00-4ACA-45F1-8296-0C2D3711DB7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demohubsignalR", "demohubsignalR\demohubsignalR.csproj", "{00364D96-4E15-4A8E-BCA7-E9B8A8077F48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +28,25 @@ Global
 		{CA148623-DF4B-491D-9F9B-8D46C3D3C823}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA148623-DF4B-491D-9F9B-8D46C3D3C823}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA148623-DF4B-491D-9F9B-8D46C3D3C823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{410D538D-ABA2-431F-A986-195C78EE3BA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410D538D-ABA2-431F-A986-195C78EE3BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410D538D-ABA2-431F-A986-195C78EE3BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410D538D-ABA2-431F-A986-195C78EE3BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11404636-02FD-4493-AE65-9BEE9FFC307E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11404636-02FD-4493-AE65-9BEE9FFC307E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11404636-02FD-4493-AE65-9BEE9FFC307E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11404636-02FD-4493-AE65-9BEE9FFC307E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74507D02-7C7A-4437-AB3D-9A20AD3FB1C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74507D02-7C7A-4437-AB3D-9A20AD3FB1C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74507D02-7C7A-4437-AB3D-9A20AD3FB1C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74507D02-7C7A-4437-AB3D-9A20AD3FB1C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14189B00-4ACA-45F1-8296-0C2D3711DB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14189B00-4ACA-45F1-8296-0C2D3711DB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14189B00-4ACA-45F1-8296-0C2D3711DB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14189B00-4ACA-45F1-8296-0C2D3711DB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00364D96-4E15-4A8E-BCA7-E9B8A8077F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00364D96-4E15-4A8E-BCA7-E9B8A8077F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00364D96-4E15-4A8E-BCA7-E9B8A8077F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00364D96-4E15-4A8E-BCA7-E9B8A8077F48}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
