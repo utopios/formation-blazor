@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kNcpL7LSWpg97ldumEmMFhqIPAI2jLGFgi6KHYNySVQ=",
+  "Hash": "74zfamdFb64puRCtfNWoedw6VmXi57IxgwzBK4kqMHY=",
   "Source": "demo-blazor-webassembly",
   "BasePath": "/",
   "Mode": "Root",
@@ -303,7 +303,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.connections.abstractions/8.0.0/lib/netstandard2.1/Microsoft.AspNetCore.Connections.Abstractions.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.connections.abstractions/9.0.0-preview.2.24128.4/lib/netstandard2.1/Microsoft.AspNetCore.Connections.Abstractions.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Client.dll",
@@ -320,7 +320,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.http.connections.client/8.0.0/lib/netstandard2.1/Microsoft.AspNetCore.Http.Connections.Client.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.http.connections.client/9.0.0-preview.2.24128.4/lib/netstandard2.1/Microsoft.AspNetCore.Http.Connections.Client.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Common.dll",
@@ -337,7 +337,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.http.connections.common/8.0.0/lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Common.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.http.connections.common/9.0.0-preview.2.24128.4/lib/netstandard2.0/Microsoft.AspNetCore.Http.Connections.Common.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll",
@@ -371,7 +371,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.signalr.client.core/8.0.0/lib/netstandard2.1/Microsoft.AspNetCore.SignalR.Client.Core.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.signalr.client.core/9.0.0-preview.2.24128.4/lib/netstandard2.1/Microsoft.AspNetCore.SignalR.Client.Core.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.dll",
@@ -388,7 +388,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.signalr.client/8.0.0/lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.signalr.client/9.0.0-preview.2.24128.4/lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Client.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Common.dll",
@@ -405,7 +405,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.signalr.common/8.0.0/lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Common.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.signalr.common/9.0.0-preview.2.24128.4/lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Common.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
@@ -422,7 +422,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.signalr.protocols.json/8.0.0/lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.signalr.protocols.json/9.0.0-preview.2.24128.4/lib/netstandard2.0/Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Bcl.AsyncInterfaces.dll",
@@ -439,7 +439,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.bcl.asyncinterfaces/8.0.0/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.bcl.asyncinterfaces/9.0.0-preview.2.24128.5/lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Bcl.TimeProvider.dll",
@@ -456,7 +456,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.bcl.timeprovider/8.0.0/lib/netstandard2.0/Microsoft.Bcl.TimeProvider.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.bcl.timeprovider/9.0.0-preview.2.24128.5/lib/netstandard2.0/Microsoft.Bcl.TimeProvider.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.CSharp.dll",
@@ -575,7 +575,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.2.24128.5/lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll",
@@ -592,7 +592,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/lib/net7.0/Microsoft.Extensions.DependencyInjection.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.0-preview.2.24128.5/lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Features.dll",
@@ -609,7 +609,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.features/8.0.0/lib/netstandard2.0/Microsoft.Extensions.Features.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.features/9.0.0-preview.2.24128.4/lib/netstandard2.0/Microsoft.Extensions.Features.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll",
@@ -677,7 +677,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0-preview.2.24128.5/lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll",
@@ -694,7 +694,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.logging/8.0.0/lib/net7.0/Microsoft.Extensions.Logging.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.logging/9.0.0-preview.2.24128.5/lib/netstandard2.1/Microsoft.Extensions.Logging.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Options.dll",
@@ -711,7 +711,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.options/8.0.0/lib/net7.0/Microsoft.Extensions.Options.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.options/9.0.0-preview.2.24128.5/lib/netstandard2.1/Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll",
@@ -728,7 +728,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.primitives/8.0.0/lib/net7.0/Microsoft.Extensions.Primitives.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.extensions.primitives/9.0.0-preview.2.24128.5/lib/netstandard2.0/Microsoft.Extensions.Primitives.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.JSInterop.dll",
@@ -1238,7 +1238,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.netcore.app.runtime.mono.browser-wasm/7.0.0/runtimes/browser-wasm/lib/net7.0/System.Diagnostics.DiagnosticSource.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/system.diagnostics.diagnosticsource/9.0.0-preview.2.24128.5/lib/netstandard2.0/System.Diagnostics.DiagnosticSource.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll",
@@ -1731,7 +1731,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/system.io.pipelines/8.0.0/lib/net7.0/System.IO.Pipelines.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/system.io.pipelines/9.0.0-preview.2.24128.5/lib/netstandard2.0/System.IO.Pipelines.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll",
@@ -3142,7 +3142,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/system.text.encodings.web/8.0.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/system.text.encodings.web/9.0.0-preview.2.24128.5/lib/netstandard2.0/System.Text.Encodings.Web.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Text.Json.dll",
@@ -3159,7 +3159,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/system.text.json/8.0.0/lib/net7.0/System.Text.Json.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/system.text.json/9.0.0-preview.2.24128.5/lib/netstandard2.0/System.Text.Json.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Text.RegularExpressions.dll",
@@ -3193,7 +3193,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/system.threading.channels/8.0.0/lib/net7.0/System.Threading.Channels.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/system.threading.channels/9.0.0-preview.2.24128.5/lib/netstandard2.1/System.Threading.Channels.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Threading.dll",
@@ -3859,6 +3859,23 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/1SWGJSv0.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.Core.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.Core.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.Core.dll"
+    },
+    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/1uPSEABP.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -4046,6 +4063,23 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll"
     },
     {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/5LUTheV0.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Diagnostics.DiagnosticSource.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll"
+    },
+    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/5q87LeTI.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -4095,23 +4129,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Thread.dll"
-    },
-    {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/6DDdtWCI.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Bcl.AsyncInterfaces.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Bcl.AsyncInterfaces.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Bcl.AsyncInterfaces.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/6iCc8M5T.gz",
@@ -4318,21 +4335,21 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/8rkmlBbV.gz",
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/8QTuJPmu.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
       "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll"
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/8UFC98rb.gz",
@@ -4350,6 +4367,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Net.HttpListener.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/9gzjHEvo.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/9S5EdwN5.gz",
@@ -4471,6 +4505,23 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll"
     },
     {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/aRvTcZLV.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Bcl.AsyncInterfaces.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Bcl.AsyncInterfaces.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Bcl.AsyncInterfaces.dll"
+    },
+    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/AxV1gRRV.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -4503,23 +4554,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll"
-    },
-    {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/ba+o3Xus.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Common.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Common.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Common.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/BPFkgycf.gz",
@@ -4658,6 +4692,23 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Security.Claims.dll"
     },
     {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/cqSik4VV.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Threading.Channels.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Channels.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Channels.dll"
+    },
+    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/CTAw6z77.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -4692,6 +4743,40 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/dotnet.7.0.0.d38rknjkzo.js"
     },
     {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/D+2OGqij.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Features.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Features.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Features.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/D+kdyU89.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Client.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Client.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Client.dll"
+    },
+    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/D1+wTE2+.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -4724,23 +4809,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Text.RegularExpressions.dll"
-    },
-    {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/DChHQ2lN.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/dd+lksaC.gz",
@@ -4828,23 +4896,6 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/e8P2cpCP.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.Text.Json.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Text.Json.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Text.Json.dll"
-    },
-    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/e9W2y6tz.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -4860,23 +4911,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.ValueTuple.dll"
-    },
-    {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/edE6O8ee.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.IO.Pipelines.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.IO.Pipelines.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/eisOZ7pF.gz",
@@ -4930,6 +4964,23 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Net.dll"
     },
     {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/ete9ILWE.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/System.Text.Json.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Text.Json.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Text.Json.dll"
+    },
+    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/EViINcmQ.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -4981,23 +5032,6 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/f9W3XLiT.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll"
-    },
-    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/FPqRTKNp.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -5047,6 +5081,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/g8H+0qGG.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Bcl.TimeProvider.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Bcl.TimeProvider.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Bcl.TimeProvider.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/GdGSqLwK.gz",
@@ -5151,23 +5202,6 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/hVuw+wWI.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Features.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Features.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Features.dll"
-    },
-    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/HWJXVVWv.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -5200,23 +5234,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Drawing.dll"
-    },
-    {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/i3t74GfZ.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/I9Ct51fl.gz",
@@ -5304,23 +5321,6 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Private.DataContractSerialization.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/IX3wD+at.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Bcl.TimeProvider.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Bcl.TimeProvider.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Bcl.TimeProvider.dll"
-    },
-    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/j+X7eZTu.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -5389,21 +5389,38 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/JmNnxOWE.gz",
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/jHzCfx15.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
       "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "RelativePath": "_framework/System.IO.Pipelines.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.IO.Pipelines.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.IO.Pipelines.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/jO1X0swp.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Options.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/JvNyndG7.gz",
@@ -5423,40 +5440,6 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Security.Principal.Windows.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/K+jEnuFp.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.Text.Encodings.Web.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Text.Encodings.Web.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Text.Encodings.Web.dll"
-    },
-    {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/kkJ+zQQW.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Connections.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Connections.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Connections.Abstractions.dll"
-    },
-    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/Kmn4uLfr.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -5474,23 +5457,6 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Timer.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/kmRB3giU.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Common.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Common.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Common.dll"
-    },
-    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/krxTUzDV.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -5506,6 +5472,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Drawing.Primitives.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/KZvAgEDn.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/ljbmBuB5.gz",
@@ -5661,23 +5644,6 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/icudt.dat"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/MSfZ9MBr.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.Threading.Channels.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Channels.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Threading.Channels.dll"
-    },
-    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/mVmuouTB.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -5746,6 +5712,23 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Configuration.dll"
     },
     {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/NHBw8vwQ.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll"
+    },
+    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/nj1J3Jaa.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -5778,23 +5761,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Net.Ping.dll"
-    },
-    {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/nUwWy+Zl.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Client.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Client.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Client.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/oDz3vrPj.gz",
@@ -5950,21 +5916,21 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.ComponentModel.Primitives.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/pW4aUwER.gz",
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/puXEBpkC.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
       "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Options.dll",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Options.dll"
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/q5t+5UzN.gz",
@@ -5982,23 +5948,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll"
-    },
-    {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/Q6YzM8y1.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Client.Core.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.Core.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Client.Core.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/qAskyuRe.gz",
@@ -6135,6 +6084,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/ra6i+SIR.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Http.Connections.Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Http.Connections.Common.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/RB+1R9KY.gz",
@@ -6288,23 +6254,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Security.AccessControl.dll"
-    },
-    {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/skt1ckwA.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Protocols.Json.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/smTAUciU.gz",
@@ -6492,6 +6441,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.IO.IsolatedStorage.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/tXnWqoEk.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.SignalR.Common.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Common.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.SignalR.Common.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/u4uNJL2w.gz",
@@ -6749,6 +6715,23 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll"
     },
     {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/wLjkXcH8.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Connections.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Connections.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Connections.Abstractions.dll"
+    },
+    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/WLP6UBZf.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -6800,23 +6783,6 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/XAk0MwKK.gz",
-      "SourceId": "demo-blazor-webassembly",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/System.Diagnostics.DiagnosticSource.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll"
-    },
-    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/XHka9MBe.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
@@ -6834,21 +6800,21 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/XObqsK+P.gz",
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/XMVdJ1iB.gz",
       "SourceId": "demo-blazor-webassembly",
       "SourceType": "Computed",
       "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
+      "RelativePath": "_framework/System.Text.Encodings.Web.dll.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Text.Encodings.Web.dll",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Text.Encodings.Web.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/xoPLYBHa.gz",
@@ -6934,6 +6900,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Numerics.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/XyrUZBHn.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/XyWNMInU.gz",
@@ -7206,6 +7189,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/System.Xml.ReaderWriter.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/build-gz/ZzErstuw.gz",
+      "SourceId": "demo-blazor-webassembly",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/bin/Debug/net7.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demo-blazor-webassembly/obj/Debug/net7.0/scopedcss/bundle/demo-blazor-webassembly.styles.css",
