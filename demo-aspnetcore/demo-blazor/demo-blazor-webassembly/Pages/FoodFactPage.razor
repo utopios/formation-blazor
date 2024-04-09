@@ -7,6 +7,17 @@
     @FoodFacts?.Product?.ProductName
 </div>
 
+@if (FoodFacts?.Product?.KeyWords != null)
+{
+    <div>
+        @foreach(string word in FoodFacts.Product.KeyWords)
+        {
+            <div>@word</div>
+        }
+    </div>
+}
+
+
 @code {
     public FoodFacts? FoodFacts { get; set; }
     
