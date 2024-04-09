@@ -1,5 +1,6 @@
 @page "/ViewLePendu"
 @using demomvvmblazor.ViewModels
+@inherits BaseView<LePenduViewModel>
 @inject LePenduViewModel _LePenduViewModel;
 <h3>Bienvenue sur le jeu du pendu</h3>
 <div>
@@ -18,15 +19,15 @@
     </div>
 </div>
 @code {
-    protected override Task OnInitializedAsync()
-    {
-        _LePenduViewModel.PropertyChanged += async (sender, e) =>
-        {
-            await InvokeAsync(() =>
-            {
-                StateHasChanged();
-            });
-        };
-        return base.OnInitializedAsync();
-    }
+    // protected override Task OnInitializedAsync()
+    // {
+    //     _LePenduViewModel.PropertyChanged += async (sender, e) =>
+    //     {
+    //         await InvokeAsync(() =>
+    //         {
+    //             StateHasChanged();
+    //         });
+    //     };
+    //     return base.OnInitializedAsync();
+    // }
 }

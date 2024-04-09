@@ -5,7 +5,7 @@ using demomvvmblazor.Services;
 
 namespace demomvvmblazor.ViewModels;
 
-public class LePenduViewModel : INotifyPropertyChanged
+public class LePenduViewModel : BaseViewModel
 {
     public string Masque
     {
@@ -42,12 +42,7 @@ public class LePenduViewModel : INotifyPropertyChanged
         OnPropertyChanged("Lettre");
     }
 
-    public event PropertyChangedEventHandler? PropertyChanged;
-
-    protected virtual void OnPropertyChanged([CallerMemberName] string? propertyName = null)
-    {
-        PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
-    }
+    
 
     
 }

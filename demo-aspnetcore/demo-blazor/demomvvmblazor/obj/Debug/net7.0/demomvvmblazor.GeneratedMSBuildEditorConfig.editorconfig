@@ -36,6 +36,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demomvvmblazor/Views/BaseView.razor]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFzZVZpZXcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/demomvvmblazor/Views/FoodFacts.razor]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRm9vZEZhY3RzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

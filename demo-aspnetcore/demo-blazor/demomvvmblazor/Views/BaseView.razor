@@ -1,0 +1,15 @@
+@typeparam TViewModel where TViewModel : demomvvmblazor.ViewModels.BaseViewModel 
+@inject TViewModel _ViewModel
+@code {
+    protected override Task OnInitializedAsync()
+    {
+        _ViewModel.PropertyChanged += async (sender, e) =>
+        {
+            await InvokeAsync(() =>
+            {
+                StateHasChanged();
+            });
+        };
+        return base.OnInitializedAsync();
+    }
+}

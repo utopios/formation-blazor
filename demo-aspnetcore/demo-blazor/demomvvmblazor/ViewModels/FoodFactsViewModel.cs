@@ -5,7 +5,7 @@ using demomvvmblazor.Services;
 
 namespace demomvvmblazor.ViewModels;
 
-public class FoodFactsViewModel : INotifyPropertyChanged
+public class FoodFactsViewModel : BaseViewModel
 {
     public string Code
     {
