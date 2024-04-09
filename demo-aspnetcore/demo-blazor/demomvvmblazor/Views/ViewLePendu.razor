@@ -1,0 +1,32 @@
+@page "/ViewLePendu"
+@using demomvvmblazor.ViewModels
+@inject LePenduViewModel _LePenduViewModel;
+<h3>Bienvenue sur le jeu du pendu</h3>
+<div>
+    <div>
+        @_LePenduViewModel.Masque
+    </div>
+    <div>
+        Nombre d'essais : @_LePenduViewModel.NombreEssai
+    </div>
+    <div>
+        <input type="text" @bind="_LePenduViewModel.Lettre" placeholder="Merci de saisir un charactère"/>
+        <button onclick="@_LePenduViewModel.TesterLettre">valider</button>
+    </div>
+    <div>
+        @_LePenduViewModel.Message
+    </div>
+</div>
+@code {
+    protected override Task OnInitializedAsync()
+    {
+        _LePenduViewModel.PropertyChanged += async (sender, e) =>
+        {
+            await InvokeAsync(() =>
+            {
+                StateHasChanged();
+            });
+        };
+        return base.OnInitializedAsync();
+    }
+}
