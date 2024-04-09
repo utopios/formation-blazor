@@ -1,0 +1,30 @@
+@page "/FoodFacts"
+@using demomvvmblazor.ViewModels
+@inject FoodFactsViewModel _FactsViewModel
+<h3>FoodFacts</h3>
+<div>
+    <input type="text" @bind="_FactsViewModel.Code" placeholder="Merci de saisir le code barre du produit "/>
+    <button onclick="@_FactsViewModel.SearchProduct">Rechercher</button>
+</div>
+@if (_FactsViewModel?.ProductName != null)
+{
+    <div>
+        <h2>@_FactsViewModel.ProductName</h2>
+        @if (_FactsViewModel?.KeyWords != null)
+        {
+            <div>Mots  clé: </div>
+            <ul>
+                @foreach (string keywords in _FactsViewModel.KeyWords)
+                {
+                    <li>@keywords</li>    
+                }
+        
+            </ul>
+        }
+        
+    </div>
+}
+
+@code {
+    
+}
