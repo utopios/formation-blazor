@@ -1,0 +1,18 @@
+@page "/pizza"
+@using TpPizza.ViewModels
+@inject PizzasViewModel _PizzasViewModel
+<h3>PizzasView</h3>
+
+@code {
+    protected override Task OnInitializedAsync()
+    {
+        _PizzasViewModel.PropertyChanged += async (sender, e) =>
+        {
+            await InvokeAsync(() =>
+            {
+                StateHasChanged();
+            });
+        };
+        return base.OnInitializedAsync();
+    }
+}
