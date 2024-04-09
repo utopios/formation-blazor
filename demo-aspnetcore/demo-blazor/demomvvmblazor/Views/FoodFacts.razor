@@ -26,5 +26,16 @@
 }
 
 @code {
-    
+    protected override Task OnInitializedAsync()
+    {
+        _FactsViewModel.PropertyChanged += async (sender, e) =>
+        {
+            await InvokeAsync(() =>
+            {
+                StateHasChanged();
+            });
+        };
+        return base.OnInitializedAsync();
+    }
+
 }
