@@ -1,0 +1,29 @@
+@using TpPizza.Services
+@inject IPanierService _PanierService
+
+<div>
+    <h2>Panier</h2>
+    <ul>
+        @if (Pizzas != null && Pizzas?.Count > 0)
+        {
+            @foreach (PizzaPanier p in Pizzas)
+            {
+                <li>@p.Pizza.Name | @p.Pizza.Price € | @p.Qty | <button @onclick="(e) => { SupprimerDuPanier(p.Pizza);}">X</button></li>
+            }
+        }
+    </ul>
+    <span>Total : @Total</span>
+</div>
+
+@code {
+    [Parameter]
+    public List<PizzaPanier> Pizzas { get; set; }
+    
+    [Parameter]
+    public decimal Total { get; set; }
+
+    public void SupprimerDuPanier(Pizza pizza)
+    {
+        _PanierService.SupprimerDuPanier(pizza);
+    }
+}

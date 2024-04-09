@@ -5,6 +5,11 @@ namespace TpPizza.Services;
 public class PanierService : IPanierService
 {
     private Panier _panier;
+    
+    public Panier Panier
+    {
+        get => _panier;
+    }
 
     public PanierService()
     {

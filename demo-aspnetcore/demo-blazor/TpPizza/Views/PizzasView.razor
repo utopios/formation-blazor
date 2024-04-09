@@ -1,7 +1,22 @@
-@page "/pizza"
+@page "/"
 @using TpPizza.ViewModels
 @inject PizzasViewModel _PizzasViewModel
-<h3>PizzasView</h3>
+
+<div class="row">
+    <div class="col-8">
+        @foreach (Pizza pizza in _PizzasViewModel.Pizzas)
+        {
+            <div class="row">
+                <div class="col-12">
+                    <PizzaComponent Pizza="pizza"></PizzaComponent>
+                </div>
+            </div>
+        }
+    </div>
+    <div class="col-4">
+        <PanierComponent Pizzas="_PizzasViewModel.PizzaPaniers" Total="_PizzasViewModel.Total"></PanierComponent>
+    </div>
+</div>
 
 @code {
     protected override Task OnInitializedAsync()
