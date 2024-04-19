@@ -33,6 +33,7 @@ public class PizzasViewModel : INotifyPropertyChanged
         _panierService.MiseAJouerPanierEvent += () =>
         {
             OnPropertyChanged("Panier");
+            
             OnPropertyChanged("PizzaPaniers");
             OnPropertyChanged("Total");
         };
