@@ -1,0 +1,12 @@
+@page "/jsimport"
+@using System.Runtime.InteropServices.JavaScript
+@using BlazorInteractionJS.wwwroot.Tools
+<h3>InteractionJSImport</h3>
+<button @onclick="InvokeJS">Invoke JS</button>
+@code {
+
+    public void InvokeJS()
+    {
+        JsWrapper.ShowAlert("Hello");
+    }
+}

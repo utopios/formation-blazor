@@ -13,8 +13,8 @@
       "PackagePath": "staticwebassets/BlazorInteractionJS.styles.css"
     },
     {
-      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/Service/UseJsService.cs",
-      "PackagePath": "staticwebassets/Service/UseJsService.cs"
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/Tools/JsWrapper.cs",
+      "PackagePath": "staticwebassets/Tools/JsWrapper.cs"
     },
     {
       "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/app.css",

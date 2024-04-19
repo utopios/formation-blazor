@@ -1,4 +1,4 @@
-function showAlert(message) {
+export function showAlert(message) {
     alert(typeof message)
     alert("Hello from js" + message)
 }

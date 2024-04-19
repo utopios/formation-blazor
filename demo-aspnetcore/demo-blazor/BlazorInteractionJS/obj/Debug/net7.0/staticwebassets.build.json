@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hQgQk5hglrNbioRgMWOMcz5ybDAxlvFXv4uoiN0wCBA=",
+  "Hash": "5QFdDiaKHH7iMISm2yYyglW45CLVEv78w158ZKkZLz0=",
   "Source": "BlazorInteractionJS",
   "BasePath": "/",
   "Mode": "Root",
@@ -7208,12 +7208,12 @@
       "OriginalItemSpec": "wwwroot/sample-data/weather.json"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/Service/UseJsService.cs",
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/Tools/JsWrapper.cs",
       "SourceId": "BlazorInteractionJS",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/",
       "BasePath": "/",
-      "RelativePath": "Service/UseJsService.cs",
+      "RelativePath": "Tools/JsWrapper.cs",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -7222,7 +7222,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/Service/UseJsService.cs"
+      "OriginalItemSpec": "wwwroot/Tools/JsWrapper.cs"
     }
   ]
 }
