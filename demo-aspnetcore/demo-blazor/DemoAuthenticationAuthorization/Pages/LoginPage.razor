@@ -1,0 +1,38 @@
+@page "/LoginPage"
+@using DemoAuthenticationAuthorization.Tools
+@using Microsoft.AspNetCore.Components.Authorization
+@inject AuthenticationStateProvider AuthenticationStateProvider
+@inject NavigationManager NavigationManager
+<h3>LoginPage</h3>
+<div>
+    <input type="text" @bind-value="Username"/>
+    <input type="password" @bind-value="Password"/>
+    
+    <button @onclick="Login">Valider</button>
+</div>
+
+@code {
+    
+    public string Username { get; set; }
+    public string Password { get; set; }
+
+    protected override Task OnInitializedAsync()
+    {
+        AuthenticationStateProvider.AuthenticationStateChanged += AfterLogin;
+        return Task.CompletedTask;
+    }
+
+    private async void AfterLogin(Task<AuthenticationState> task)
+    {
+        var authenticationState = await task;
+        if (authenticationState.User is not null)
+        {
+            NavigationManager.NavigateTo("/");   
+        }
+    }
+
+    public void Login()
+    {
+        (AuthenticationStateProvider as TrainingAuthenticationStateProvider)?.Login(Username, Password);
+    }
+}
