@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/obj/Debug/net7.0/build-gz/uSIBiQxS.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/obj/Debug/net7.0/scopedcss/bundle/BlazorInteractionJS.styles.css",
+      "PackagePath": "staticwebassets/BlazorInteractionJS.styles.css"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/Service/UseJsService.cs",
+      "PackagePath": "staticwebassets/Service/UseJsService.cs"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/open-iconic/FONT-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/open-iconic/ICON-LICENSE",
+      "PackagePath": "staticwebassets/css/open-iconic"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/open-iconic/README.md",
+      "PackagePath": "staticwebassets/css/open-iconic/README.md"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/open-iconic/font/css/open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/open-iconic/font/css/open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/open-iconic/font/fonts/open-iconic.eot",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.eot"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/open-iconic/font/fonts/open-iconic.otf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.otf"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/open-iconic/font/fonts/open-iconic.svg",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.svg"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/open-iconic/font/fonts/open-iconic.ttf",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.ttf"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/css/open-iconic/font/fonts/open-iconic.woff",
+      "PackagePath": "staticwebassets/css/open-iconic/font/fonts/open-iconic.woff"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/js/functionService.js",
+      "PackagePath": "staticwebassets/js/functionService.js"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/js/script.js",
+      "PackagePath": "staticwebassets/js/script.js"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/BlazorInteractionJS/wwwroot/sample-data/weather.json",
+      "PackagePath": "staticwebassets/sample-data/weather.json"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BlazorInteractionJS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BlazorInteractionJS.props",
+      "PackagePath": "build\\BlazorInteractionJS.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BlazorInteractionJS.props",
+      "PackagePath": "buildMultiTargeting\\BlazorInteractionJS.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BlazorInteractionJS.props",
+      "PackagePath": "buildTransitive\\BlazorInteractionJS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

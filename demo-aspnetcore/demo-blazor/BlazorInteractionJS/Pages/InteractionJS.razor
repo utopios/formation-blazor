@@ -1,0 +1,37 @@
+@page "/js"
+@using BlazorInteractionJS.wwwroot.Service
+@inject IJSRuntime JsRuntime
+@inject UseJsService UseJsService
+<h3>Interaction avec JS</h3>
+
+<input @bind-value="Message"/>
+
+<button @onclick="StartJsFromButton">Démarrer du javascript</button>
+
+<button @onclick="StartJsReferenceFromButton">Démarrer du javascript à partir d'un IJSObjectReference</button>
+
+<button @onclick="DisposeObject"> Libérer les ressources</button>
+
+@code {
+    
+    public string Message { get; set; }
+    
+    public async void StartJsFromButton()
+    {
+        await JsRuntime.InvokeVoidAsync("showAlert", Convert.ToDouble(Message));
+    }
+    public async void StartJsReferenceFromButton()
+    {
+        await UseJsService.StartJs();
+    }
+    
+    public async void DisposeObject()
+    {
+        await UseJsService.DisposeAsync();
+    }
+
+    public async void Dispose()
+    {
+        await UseJsService.DisposeAsync();
+    }
+}

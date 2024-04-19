@@ -16,6 +16,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demohubsignalR", "demohubsi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpPizza", "TpPizza\TpPizza.csproj", "{B5932934-0D70-4F2F-8A86-F8C594D8A410}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorInteractionJS", "BlazorInteractionJS\BlazorInteractionJS.csproj", "{443B5895-3363-4CD0-9BB5-74DCD49B5CBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -54,5 +56,9 @@ Global
 		{B5932934-0D70-4F2F-8A86-F8C594D8A410}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5932934-0D70-4F2F-8A86-F8C594D8A410}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5932934-0D70-4F2F-8A86-F8C594D8A410}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443B5895-3363-4CD0-9BB5-74DCD49B5CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443B5895-3363-4CD0-9BB5-74DCD49B5CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443B5895-3363-4CD0-9BB5-74DCD49B5CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443B5895-3363-4CD0-9BB5-74DCD49B5CBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
