@@ -199,13 +199,13 @@
       "mscorlib.dll": "sha256-pO\/W4w\/X+UjVMUMaxE5tYTQ0tILP+hmMu0zi0MSVBLc=",
       "netstandard.dll": "sha256-kj5cBXzwPYC+HD+P8+6VybY34JtEzjXjMIHXEI3hIiM=",
       "System.Private.CoreLib.dll": "sha256-Awk1lCiFfH7r9AAZfBtGqS8rhv6UJ5lUu3yF6HDH3tQ=",
-      "DemoAuthenticationAuthorization.dll": "sha256-pKBslDGtTdfbwyLu7HqzNXABxs9IHk2JVCikUaacms0="
+      "DemoAuthenticationAuthorization.dll": "sha256-XvIBlFFQVAqxKSiJ7cVfBsFMVsfJzQRwEPGaB4ISR5Q="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "DemoAuthenticationAuthorization.pdb": "sha256-HgdgkDoEwEkIkl4zzDIvuwRvgnAGeACE7FXGCeG0Ofg="
+      "DemoAuthenticationAuthorization.pdb": "sha256-mcTWFcdlyQSGzYnAR3vc3d8oVrHQwp0gJF\/vX1CgnV0="
     },
     "runtime": {
       "dotnet.7.0.0.d38rknjkzo.js": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",

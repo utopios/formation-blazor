@@ -1,8 +1,10 @@
 @page "/LoginPage"
 @using DemoAuthenticationAuthorization.Tools
+@using Microsoft.AspNetCore.Authorization
 @using Microsoft.AspNetCore.Components.Authorization
 @inject AuthenticationStateProvider AuthenticationStateProvider
 @inject NavigationManager NavigationManager
+@attribute [AllowAnonymous]
 <h3>LoginPage</h3>
 <div>
     <input type="text" @bind-value="Username"/>

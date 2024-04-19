@@ -33,11 +33,14 @@ public class TrainingAuthenticationStateProvider: AuthenticationStateProvider, I
         if (user is not null)
         {
             var authenticationUser = _loginService.SendAuthentication(user.Username, user.Password);
-            
+            CurrentUser = authenticationUser;
             if (authenticationUser is not null)
             {
-                CurrentUser = authenticationUser;
                 principal = authenticationUser.ClaimsPrincipal();
+            }
+            else
+            {
+                return new(new());
             }
         }
 

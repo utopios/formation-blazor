@@ -6,8 +6,10 @@ public class LoginService
 {
     public User SendAuthentication(string username, string password)
     {
-        //Invoke des api rest 
-        return new User() { Username = "toto", Password = "toto", Age = 20 };
+        if(username == "toto" && password == "toto")
+            //Invoke des api rest 
+            return new User() { Username = "toto", Password = "toto", Age = 20 };
+        return null;
     }
     
     //Sauvegarder les informations dans localStorage
