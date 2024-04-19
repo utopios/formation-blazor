@@ -1,6 +1,7 @@
 using System.Net.Mime;
 using System.Text.Json;
 using System.Text.Json.Serialization;
+using Microsoft.AspNetCore.Components;
 using Microsoft.JSInterop;
 using TpPizza.Models;
 
@@ -24,12 +25,12 @@ public class LocalStorageFavorisService : IFavorisService
         return  JsonSerializer.Deserialize<List<Pizza>>(result) ?? new List<Pizza>();
     }
 
-    public async Task AddPizza(Pizza pizza)
+    public async Task AddPizza(Pizza pizza, ElementReference elementReference)
     {
         await AwaitReference();
         var oldPizza = await GetFavoris();
         oldPizza.Add(pizza);
-        await _accessorJsRef.Value.InvokeVoidAsync("set","favoris",  JsonSerializer.Serialize(oldPizza));
+        await _accessorJsRef.Value.InvokeVoidAsync("set","favoris",  JsonSerializer.Serialize(oldPizza), elementReference);
     }
 
     public async  Task RemovePizza(Pizza pizza)

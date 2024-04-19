@@ -198,13 +198,13 @@
       "mscorlib.dll": "sha256-pO\/W4w\/X+UjVMUMaxE5tYTQ0tILP+hmMu0zi0MSVBLc=",
       "netstandard.dll": "sha256-kj5cBXzwPYC+HD+P8+6VybY34JtEzjXjMIHXEI3hIiM=",
       "System.Private.CoreLib.dll": "sha256-Awk1lCiFfH7r9AAZfBtGqS8rhv6UJ5lUu3yF6HDH3tQ=",
-      "TpPizza.dll": "sha256-kh9L1w8R2n7rCC3omUR3VZPzesTbXtmO5xqb9zPrgpM="
+      "TpPizza.dll": "sha256-y5i23XbfcQa+ZNW0xDKx9lCrvHRD2A7EfUZj7ohGwKk="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "TpPizza.pdb": "sha256-zvUD0viIWAGfYajEDpxoPfr\/5xX5XMFfy35cXLchL7Q="
+      "TpPizza.pdb": "sha256-AhFR\/Ar\/EyP5E7b2Mca22RULLAaRNicwjd4rTTcY\/uU="
     },
     "runtime": {
       "dotnet.7.0.0.d38rknjkzo.js": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",

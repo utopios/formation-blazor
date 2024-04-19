@@ -3,9 +3,10 @@ export function get(key)
     return window.localStorage.getItem(key);
 }
 
-export function set(key, value)
+export function set(key, value, element)
 {
     window.localStorage.setItem(key, value);
+    element.disabled = true;
 }
 
 export function clear()
