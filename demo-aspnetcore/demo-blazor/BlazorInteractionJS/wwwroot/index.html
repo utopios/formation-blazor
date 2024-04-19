@@ -11,7 +11,10 @@
     <link rel="icon" type="image/png" href="favicon.png" />
     <link href="BlazorInteractionJS.styles.css" rel="stylesheet" />
 <!--    <script src="js/script.js"></script>-->
+
+    
 </head>
+
 
 <body>
     <div id="app">
@@ -28,6 +31,13 @@
         <a class="dismiss">🗙</a>
     </div>
     <script src="_framework/blazor.webassembly.js"></script>
+    <script>
+        async function CallCSharpFromJS() {
+            DotNet.invokeMethodAsync("BlazorInteractionJS","InvokeCSharpFromJs")
+        }
+        var result = await CallCSharpFromJS()
+        console.log(result)
+    </script>
 </body>
 
 </html>
