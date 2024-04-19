@@ -101,8 +101,20 @@
       "PackagePath": "staticwebassets/index.html"
     },
     {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/js/cachestorageaccessor.js",
+      "PackagePath": "staticwebassets/js/cachestorageaccessor.js"
+    },
+    {
       "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/js/localstorageaccessor.js",
       "PackagePath": "staticwebassets/js/localstorageaccessor.js"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/sample-data/formation-admin.json",
+      "PackagePath": "staticwebassets/sample-data/formation-admin.json"
+    },
+    {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/sample-data/formation-normal.json",
+      "PackagePath": "staticwebassets/sample-data/formation-normal.json"
     },
     {
       "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/sample-data/weather.json",

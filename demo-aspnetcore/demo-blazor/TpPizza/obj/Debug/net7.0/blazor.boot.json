@@ -7,12 +7,13 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Microsoft.AspNetCore.Authorization.dll": "sha256-NFh6IBi88fjYMkbq\/IMrfqfn7JXFa8CwRo31QNrEQ+w=",
-      "Microsoft.AspNetCore.Components.dll": "sha256-9VddC0kXU8yC0LxsoSLOvzSAzJZxM+P1hCgrsV6GGBw=",
+      "Microsoft.AspNetCore.Authorization.dll": "sha256-z4GZC8zBP0+3qTsoIBdCEOvwWaWDTpt8U1vr1aLEkI4=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-2+8AH28qnJdxAcSZ0HYdiGuZzHwXNI1gFtZz71zMhDc=",
+      "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-s8GRS+pSGrHjRTvM2gxPqnJCH0gWau+eVkUxlNkRUmk=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-11bIX\/fyH9chfWgC1L1jFvAt2Ppq+6bcXl1eH6OmxMA=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-LZ9\/rytjyZiFmFLJJ3eNXTIAlcm8dbKj\/vT3N6vPXqg=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-wa9dKaCIgfTZkr2Ca8QiW3bsjHFZw3Fn8X114nXO25o=",
-      "Microsoft.AspNetCore.Metadata.dll": "sha256-mFDOnLuhJraetVG1skdrXwUnBj7sNxv2HNiaJHjPGCw=",
+      "Microsoft.AspNetCore.Metadata.dll": "sha256-yKXiy5bHeZc3n7OK1T+dXnCaUgdD\/oucHL4X86LFzww=",
       "Microsoft.Extensions.Configuration.dll": "sha256-PqQvp77oZ4+uuy2ElXk8AU9I6RfZSf18UGTrd4rulOo=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-CnS3b9EMFQmETBUVEgtcron4DBsfFdcVt3zfCP6Uflg=",
       "Microsoft.Extensions.Configuration.Binder.dll": "sha256-3rTnsLgQSM1ims+xsGWGxVCZ1UNwRSmni\/CeDpwh434=",
@@ -198,13 +199,13 @@
       "mscorlib.dll": "sha256-pO\/W4w\/X+UjVMUMaxE5tYTQ0tILP+hmMu0zi0MSVBLc=",
       "netstandard.dll": "sha256-kj5cBXzwPYC+HD+P8+6VybY34JtEzjXjMIHXEI3hIiM=",
       "System.Private.CoreLib.dll": "sha256-Awk1lCiFfH7r9AAZfBtGqS8rhv6UJ5lUu3yF6HDH3tQ=",
-      "TpPizza.dll": "sha256-y5i23XbfcQa+ZNW0xDKx9lCrvHRD2A7EfUZj7ohGwKk="
+      "TpPizza.dll": "sha256-aKdcrMg73cMtd4qUh3x11Iu7qQgiCAYPY6\/0aFbU1Mw="
     },
     "extensions": null,
     "lazyAssembly": null,
     "libraryInitializers": null,
     "pdb": {
-      "TpPizza.pdb": "sha256-AhFR\/Ar\/EyP5E7b2Mca22RULLAaRNicwjd4rTTcY\/uU="
+      "TpPizza.pdb": "sha256-JnpbjpJI6Gj6Krm5KhO7kqu2Xbo0zfzgRB0hWULOv7g="
     },
     "runtime": {
       "dotnet.7.0.0.d38rknjkzo.js": "sha256-2jNLve8W0sST0LAebgAc1IwSnGhkbjOKO8QPWWiJssI=",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NolihipRjWJsXsaoCU3VIoPDBWMuTgnCxxW75VmNVGY=",
+  "Hash": "YcLLWRwys6MKUSSJmJ+1J0/vTtmNUYVswuigFLZ7y7I=",
   "Source": "TpPizza",
   "BasePath": "/",
   "Mode": "Root",
@@ -184,7 +184,24 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.authorization/7.0.0/lib/net7.0/Microsoft.AspNetCore.Authorization.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.authorization/7.0.2/lib/net7.0/Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "TpPizza",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.components.authorization/7.0.2/lib/net7.0/Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll",
@@ -201,7 +218,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.components/7.0.0/lib/net7.0/Microsoft.AspNetCore.Components.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.components/7.0.2/lib/net7.0/Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll",
@@ -269,7 +286,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.metadata/7.0.0/lib/net7.0/Microsoft.AspNetCore.Metadata.dll"
+      "OriginalItemSpec": "/Users/ihababadi/.nuget/packages/microsoft.aspnetcore.metadata/7.0.2/lib/net7.0/Microsoft.AspNetCore.Metadata.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.CSharp.dll",
@@ -3859,6 +3876,23 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/System.Data.dll"
     },
     {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/46fYLXmA.gz",
+      "SourceId": "TpPizza",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll"
+    },
+    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/4bCBICxx.gz",
       "SourceId": "TpPizza",
       "SourceType": "Computed",
@@ -3925,6 +3959,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/5oH5YqrH.gz",
+      "SourceId": "TpPizza",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/5q87LeTI.gz",
@@ -4301,23 +4352,6 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/System.Xml.XPath.dll"
     },
     {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/AQ+n5x57.gz",
-      "SourceId": "TpPizza",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Metadata.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll"
-    },
-    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/AxV1gRRV.gz",
       "SourceId": "TpPizza",
       "SourceType": "Computed",
@@ -4590,6 +4624,40 @@
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/System.Linq.Parallel.dll"
     },
     {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/DLDViwqx.gz",
+      "SourceId": "TpPizza",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Authorization.dll"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/dPKpYlm0.gz",
+      "SourceId": "TpPizza",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll"
+    },
+    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/Dt301S1E.gz",
       "SourceId": "TpPizza",
       "SourceType": "Computed",
@@ -4605,23 +4673,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll"
-    },
-    {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/dWIc0RKR.gz",
-      "SourceId": "TpPizza",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Authorization.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/E4HMebpu.gz",
@@ -5268,23 +5319,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/System.Collections.NonGeneric.dll"
-    },
-    {
-      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/mhDKlK1u.gz",
-      "SourceId": "TpPizza",
-      "SourceType": "Computed",
-      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.AspNetCore.Components.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/mJXO21sj.gz",
@@ -7276,6 +7310,23 @@
       "OriginalItemSpec": "wwwroot/index.html"
     },
     {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/js/cachestorageaccessor.js",
+      "SourceId": "TpPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "js/cachestorageaccessor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/cachestorageaccessor.js"
+    },
+    {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/js/localstorageaccessor.js",
       "SourceId": "TpPizza",
       "SourceType": "Discovered",
@@ -7291,6 +7342,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/js/localstorageaccessor.js"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/sample-data/formation-admin.json",
+      "SourceId": "TpPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "sample-data/formation-admin.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/sample-data/formation-admin.json"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/sample-data/formation-normal.json",
+      "SourceId": "TpPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "sample-data/formation-normal.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/sample-data/formation-normal.json"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/sample-data/weather.json",

@@ -608,12 +608,9 @@
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/TpPizza.AssemblyInfo.cs
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/TpPizza.csproj.CoreCompileInputs.cache
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/TpPizza.MvcApplicationPartsAssemblyInfo.cache
-/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/dWIc0RKR.gz
-/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/mhDKlK1u.gz
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/tvxMpX89.gz
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/rgPj4IMA.gz
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/pKG22su8.gz
-/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/AQ+n5x57.gz
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/uh0csGvR.gz
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/R50TdKUb.gz
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/Ww4ehHEB.gz
@@ -826,3 +823,10 @@
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/refint/TpPizza.dll
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/TpPizza.pdb
 /Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/ref/TpPizza.dll
+/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz
+/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/bin/Debug/net7.0/Microsoft.AspNetCore.Components.Authorization.dll
+/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/5oH5YqrH.gz
+/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/dPKpYlm0.gz
+/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/DLDViwqx.gz
+/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/obj/Debug/net7.0/build-gz/46fYLXmA.gz
