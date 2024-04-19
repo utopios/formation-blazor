@@ -1,0 +1,12 @@
+<h3>ComponentA</h3>
+<h4>@Content</h4>
+<ComponentB EnvoieVersParent="@GetDataFromChild"></ComponentB>
+@code {
+
+    public string Content { get; set; }
+    public void GetDataFromChild(string data)
+    {
+        Content = data;
+        StateHasChanged();
+    }
+}

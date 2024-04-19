@@ -1,0 +1,15 @@
+<h3>ComponentB</h3>
+<input type="text" @bind-value="Data"/>
+<button @onclick="ActionB">Valider</button>
+@code {
+
+    public string Data { get; set; }
+    
+    [Parameter] 
+    public EventCallback<string> EnvoieVersParent { get; set; }
+
+    public void ActionB()
+    {
+        EnvoieVersParent.InvokeAsync(Data);
+    }
+}
