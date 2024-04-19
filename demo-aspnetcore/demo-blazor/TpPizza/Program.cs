@@ -21,4 +21,10 @@ builder.Services.AddScoped<FormationAuthenticationProvider>();
 builder.Services.AddScoped<AuthenticationStateProvider>(sp => sp.GetRequiredService<FormationAuthenticationProvider>());
 builder.Services.AddAuthorizationCore();
 
+
+// builder.Services.AddAuthorizationCore(builder =>
+// {
+//     builder.AddPolicy();
+// })
+
 await builder.Build().RunAsync();
