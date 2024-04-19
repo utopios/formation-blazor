@@ -14,5 +14,6 @@ public static class Extension
     {
         services.AddScoped<IPizzaService, FakePizzaDbService>();
         services.AddScoped<IPanierService, PanierService>();
+        services.AddScoped<IFavorisService, LocalStorageFavorisService>();
     }
 }

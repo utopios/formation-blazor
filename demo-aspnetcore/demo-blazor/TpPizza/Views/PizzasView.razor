@@ -1,7 +1,8 @@
 @page "/"
 @using TpPizza.ViewModels
+@using TpPizza.Services
 @inject PizzasViewModel _PizzasViewModel
-
+@inject IFavorisService _FavorisService
 <div class="row">
     <div class="col-8">
         @foreach (Pizza pizza in _PizzasViewModel.Pizzas)
@@ -19,6 +20,12 @@
 </div>
 
 @code {
+
+    private async void Dispose()
+    {
+        await _FavorisService.DisposeAsync();
+    }
+    
     protected override Task OnInitializedAsync()
     {
         _PizzasViewModel.PropertyChanged += async (sender, e) =>

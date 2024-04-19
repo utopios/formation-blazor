@@ -101,6 +101,10 @@
       "PackagePath": "staticwebassets/index.html"
     },
     {
+      "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/js/localstorageaccessor.js",
+      "PackagePath": "staticwebassets/js/localstorageaccessor.js"
+    },
+    {
       "Id": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/sample-data/weather.json",
       "PackagePath": "staticwebassets/sample-data/weather.json"
     },

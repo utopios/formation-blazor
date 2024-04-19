@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1MaZDOzZD4B/4MChBxARTtUaIG3o5qXvdgyuqdZX74k=",
+  "Hash": "NolihipRjWJsXsaoCU3VIoPDBWMuTgnCxxW75VmNVGY=",
   "Source": "TpPizza",
   "BasePath": "/",
   "Mode": "Root",
@@ -7274,6 +7274,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/js/localstorageaccessor.js",
+      "SourceId": "TpPizza",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/",
+      "BasePath": "/",
+      "RelativePath": "js/localstorageaccessor.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/localstorageaccessor.js"
     },
     {
       "Identity": "/Users/ihababadi/Desktop/formation-blazor/demo-aspnetcore/demo-blazor/TpPizza/wwwroot/sample-data/weather.json",

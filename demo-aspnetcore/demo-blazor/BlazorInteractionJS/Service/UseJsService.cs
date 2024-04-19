@@ -1,6 +1,6 @@
 using Microsoft.JSInterop;
 
-namespace BlazorInteractionJS.wwwroot.Service;
+namespace BlazorInteractionJS.Service;
 
 public class UseJsService : IAsyncDisposable
 {

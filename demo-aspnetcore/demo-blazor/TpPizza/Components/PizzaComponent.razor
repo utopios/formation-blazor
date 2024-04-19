@@ -1,17 +1,23 @@
 @using TpPizza.Services
 @inject IPanierService _PanierService
-
+@inject IFavorisService _FavorisService
 <div>
     <img src="@Pizza.ImageLink"/>
     <span>@Pizza.Name</span>
     <span>@Pizza.Price €</span>
     <button @onclick="AjouterPizza">Ajouter au panier</button>
+    <button @onclick="AjouterFavoris">Ajouter aux favoris</button>
 </div>
 
 @code {
     [Parameter]
     public Pizza Pizza { get; set; }
 
+    public async void AjouterFavoris()
+    {
+        await _FavorisService.AddPizza(Pizza);
+    }
+    
     public void AjouterPizza()
     {
         if (Pizza != null)
